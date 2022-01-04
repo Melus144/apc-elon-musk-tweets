@@ -1,14 +1,14 @@
 # Pràctica Kaggle APC UAB 2021-22
 ### Nom: Adrià Melús
 ### DATASET: Elon Musk Tweets
-### URL: [kaggle](https://www.kaggle.com/taruntiwarihp/elon-musk-tweets)
+### URL: [Elon Musk Tweets](https://www.kaggle.com/taruntiwarihp/elon-musk-tweets)
 ## Resum
-El dataset utilitza dades de...
-Tenim X dades amb N atributs. Un % d'ells és categoric / els altres són numérics i estàn normalitzats...
+El dataset utilitza dades referents a una gran llista de tweets d'Elon Musk de la famosa xarxa social Twitter.
+Tenim 25757 dades amb 3 atributs; Un és categòric (sentiment), un altre és contínua (tweet) i el restant és numèric (index) i no es fa servir ja que no aporta informació rellevant.
 ### Objectius del dataset
-Volem aprender quina és la ...
+Volem aprendre a predir el sentiment (positiu o negatiu) d'un tweet a partir de una gran llista de mostres etiquetades.
 ## Experiments
-Durant aquesta pràctica hem realitzat diferents experiments.
+Durant aquesta pràctica hem realitzat diferents experiments relacionats amb ... 
 ### Preprocessat
 Quines proves hem realitzat que tinguin a veure amb el pre-processat? com han afectat als resultats?
 ### Model
